@@ -5,7 +5,7 @@ Apple,iPhone 4S,16,1,iOS,3.5,No,No,No,No,5000
 Huawei,Y5,16,2,Android,5.7,No,No,No,No,5000
 Huawei,Y5,16,2,Android,5.7,Yes,No,No,No,5000
 Huawei,Y5,16,2,Android,5.7,Yes,No,No,No,5000
-Samsung,Galaxy J2,,1,Android,4.7,Yes,No,No,No,5000
+Samsung,Galaxy J2,16,1,Android,4.7,Yes,No,No,No,5000
 Huawei,Y3,16,1,Android,5.0,Yes,Yes,No,No,5000
 Huawei,Honor 4C,16,2,Android,5.0,Yes,No,No,No,5000
 Samsung,Galaxy Young,16,0.2,Android,3.0,No,Yes,No,No,5000
@@ -16,19 +16,19 @@ Samsung,Galaxy J1,16,0.5,Android,4.3,No,No,No,No,5000
 Apple,iPhone 5,16,1,iOS,4.0,No,No,No,No,5000
 Samsung,Galaxy Core,,1,Android,4.3,Yes,Yes,No,No,5000
 Samsung,Galaxy J2,16,1,Android,4.7,No,No,No,No,5000
-Samsung,Galaxy J2,,1,Android,4.7,Yes,No,No,No,5000
-Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,No,5000
-Samsung,Galaxy J2,,1,Android,4.7,Yes,Yes,No,No,5000
-Samsung,Pocket,,2,Android,2.8,Yes,No,No,No,5000
-Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,No,5000
-Samsung,Galaxy Core,,1,Android,4.3,No,No,No,No,5000
+Samsung,Galaxy J2,16,1,Android,4.7,Yes,No,No,No,5000
+Samsung,Galaxy J1,16,0.5,Android,4.3,Yes,Yes,No,No,5000
+Samsung,Galaxy J2,16,1,Android,4.7,Yes,Yes,No,No,5000
+Samsung,Pocket,16,2,Android,2.8,Yes,No,No,No,5000
+Samsung,Galaxy J1,16,0.5,Android,4.3,Yes,Yes,No,No,5000
+Samsung,Galaxy Core,16,1,Android,4.3,No,No,No,No,5000
 Greentel,GT 95,16,0.064,Android,2.2,Yes,No,No,No,5000
 Samsung,Galaxy A3,,1,Android,4.5,No,Yes,No,Yes,5000
 Nokia,2.4,32,2,Android,6.5,No,No,No,No,5000
 LG,K4,16,1,Android,4.5,No,No,No,No,5000
-Samsung,Galaxy J2,,1,Android,4.7,Yes,Yes,No,Yes,5000
+Samsung,Galaxy J2,16,1,Android,4.7,Yes,Yes,No,Yes,5000
 Huawei,Y3,16,1,Android,5.0,Yes,No,No,No,5000
-Samsung,Galaxy Young,,0.2,Android,3.0,Yes,Yes,No,No,5000
+Samsung,Galaxy Young,16,0.2,Android,3.0,Yes,Yes,No,No,5000
 Samsung,Galaxy Note 5,,4,Android,5.7,Yes,Yes,No,Yes,5000
 Huawei,GR5,16,3,Android,5.5,Yes,Yes,No,Yes,5000
 Apple,iPhone 5,16,1,iOS,4.0,No,Yes,No,No,5000
@@ -37,59 +37,59 @@ Huawei,Y3,16,1,Android,5.0,Yes,No,No,No,5000
 Apple,iPhone 5S,16,1,iOS,4.0,No,Yes,No,Yes,5000
 Samsung,Galaxy M02,32,2,Android,6.5,Yes,Yes,No,No,5000
 Huawei,Y3,16,1,Android,5.0,Yes,Yes,No,No,5000
-Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,No,5000
-Samsung,Galaxy J7,,1.5,Android,5.5,No,No,No,No,5000
-Samsung,Galaxy A01,,2,Android,5.7,Yes,No,No,No,5000
+Samsung,Galaxy J1,16,0.5,Android,4.3,Yes,Yes,No,No,5000
+Samsung,Galaxy J7,16,1.5,Android,5.5,No,No,No,No,5000
+Samsung,Galaxy A01,16,2,Android,5.7,Yes,No,No,No,5000
 Apple,iPhone 4,16,0.5,iOS,3.5,No,No,No,No,5000
 LG,K7,16,2,Android,5.0,Yes,Yes,No,No,5000
 Huawei,Y3,16,1,Android,5.0,Yes,No,No,No,5000
-Samsung,Galaxy J1,,1,Android,4.3,Yes,Yes,No,No,5000
-Samsung,Galaxy J2,,1,Android,4.7,Yes,Yes,No,No,5000
-Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,No,5000
-Samsung,Galaxy Note 2,,2,Android,5.5,No,No,No,No,5000
+Samsung,Galaxy J1,16,1,Android,4.3,Yes,Yes,No,No,5000
+Samsung,Galaxy J2,16,1,Android,4.7,Yes,Yes,No,No,5000
+Samsung,Galaxy J1,16,0.5,Android,4.3,Yes,Yes,No,No,5000
+Samsung,Galaxy Note 2,16,2,Android,5.5,No,No,No,No,5000
 Huawei,Y3,16,1,Android,5.0,No,No,No,No,5000
-Samsung,Galaxy J1,,0.5,Android,4.3,No,No,No,No,5000
-Samsung,Galaxy J5,,1.5,Android,5.0,Yes,No,No,Yes,5000
+Samsung,Galaxy J1,16,0.5,Android,4.3,No,No,No,No,5000
+Samsung,Galaxy J5,16,1.5,Android,5.0,Yes,No,No,Yes,5000
 Apple,iPhone 4S,16,0.5,iOS,3.5,No,No,No,No,5000
-Xiaomi,Redmi 9A,,2,Android,6.5,Yes,Yes,No,No,5000
+Xiaomi,Redmi 9A,16,2,Android,6.5,Yes,Yes,No,No,5000
 Samsung,Galaxy Grand,16,1,Android,5.0,No,No,No,No,5000
 LG,K10,16,1,Android,5.3,Yes,No,No,No,5000
 Apple,iPhone 5S,64,1,iOS,4.0,No,No,No,No,5000
-Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,No,5000
+Samsung,Galaxy J1,16,0.5,Android,4.3,Yes,Yes,No,No,5000
 Huawei,Y3,16,1,Android,5.0,Yes,Yes,No,No,5000
 Samsung,Galaxy J5,64,1.5,Android,5.0,Yes,Yes,No,Yes,5000
 Huawei,Y3,16,1,Android,5.0,Yes,No,No,No,5000
 Apple,iPhone 4S,64,0.5,iOS,3.5,No,No,No,No,5000
-Samsung,Galaxy Grand,,1,Android,5.0,No,Yes,No,No,5000
+Samsung,Galaxy Grand,16,1,Android,5.0,No,Yes,No,No,5000
 Huawei,Y3,16,1,Android,5.0,Yes,No,No,No,5000
-Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,No,5000
-Nokia,216,,0,Other,2.4,Yes,Yes,No,No,5000
+Samsung,Galaxy J1,16,0.5,Android,4.3,Yes,Yes,No,No,5000
+Nokia,216,16,0.016,Other,2.4,Yes,Yes,No,No,5000
 Sony,Xperia Z,8,2,Android,5.0,No,Yes,No,No,5000
 Greentel,X1,16,2,Android,5.0,Yes,Yes,No,Yes,5000
 Huawei,Honor 3C,16,2,Android,5.0,Yes,Yes,No,No,5000
 Samsung,Galaxy J2,,1,Android,4.7,Yes,Yes,No,No,5000
 Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,Yes,5000
 Samsung,Galaxy S3,16,1,Android,4.8,Yes,No,No,No,5000
-Nokia,C1,,1,Android,5.5,Yes,Yes,No,Yes,5000
-Samsung,Galaxy A2 Core,,1,Android,5.0,Yes,Yes,No,No,5000
-Samsung,Galaxy J1,,0.5,Android,4.3,Yes,No,No,No,5000
+Nokia,C1,16,1,Android,5.5,Yes,Yes,No,Yes,5000
+Samsung,Galaxy A2 Core,16,1,Android,5.0,Yes,Yes,No,No,5000
+Samsung,Galaxy J1,16,0.5,Android,4.3,Yes,No,No,No,5000
 Apple,iPhone 5S,64,1,iOS,4.0,Yes,No,No,Yes,5000
 Oppo,F3,,4,Android,5.5,Yes,Yes,No,Yes,5000
 Oppo,A37,16,2,Android,5.0,Yes,Yes,No,No,5000
 Huawei,Y5 Lite,16,1,Android,5.5,Yes,Yes,No,No,5000
-Samsung,Galaxy J1,,0.5,Android,4.3,Yes,No,No,No,5000
-Samsung,Galaxy J3,,2,Android,5.0,Yes,Yes,No,Yes,5000
-Samsung,Galaxy S6 Edge,,3,Android,5.1,No,No,No,No,5000
+Samsung,Galaxy J1,16,0.5,Android,4.3,Yes,No,No,No,5000
+Samsung,Galaxy J3,16,2,Android,5.0,Yes,Yes,No,Yes,5000
+Samsung,Galaxy S6 Edge,16,3,Android,5.1,No,No,No,No,5000
 Huawei,Y3,16,1,Android,5.0,Yes,Yes,No,No,5000
-HTC,Desire 620G,,1,Android,5.0,Yes,Yes,No,No,5000
-Samsung,Galaxy Y duos,,0.25,Android,3.1,Yes,Yes,No,No,5000
-Samsung,Galaxy J1,,0.5,Android,4.3,Yes,No,No,No,5000
-Oppo,F9,,4,Android,6.3,Yes,No,No,Yes,5000
-Samsung,Galaxy J2,,1,Android,4.7,Yes,Yes,No,No,5000
-BlackBerry,Bold,,3,BlackBerry OS,0.7,No,No,No,No,5000
-Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,No,5000
-Samsung,Galaxy J7,,1.5,Android,5.5,Yes,Yes,No,No,5000
-Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,No,5000
+HTC,Desire 620G,16,1,Android,5.0,Yes,Yes,No,No,5000
+Samsung,Galaxy Y duos,16,0.25,Android,3.1,Yes,Yes,No,No,5000
+Samsung,Galaxy J1,16,0.5,Android,4.3,Yes,No,No,No,5000
+Oppo,F9,16,4,Android,6.3,Yes,No,No,Yes,5000
+Samsung,Galaxy J2,16,1,Android,4.7,Yes,Yes,No,No,5000
+BlackBerry,Bold,16,3,BlackBerry OS,0.7,No,No,No,No,5000
+Samsung,Galaxy J1,16,0.5,Android,4.3,Yes,Yes,No,No,5000
+Samsung,Galaxy J7,16,1.5,Android,5.5,Yes,Yes,No,No,5000
+Samsung,Galaxy J1,16,0.5,Android,4.3,Yes,Yes,No,No,5000
 Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,Yes,5000
 Huawei,GR5,16,3,Android,5.5,Yes,No,No,Yes,5000
 Samsung,Galaxy Grand,,1,Android,5.0,Yes,Yes,No,No,5000
@@ -113,40 +113,40 @@ Huawei,Y5 Prime,16,2,Android,5.5,Yes,Yes,No,No,5500
 Samsung,Galaxy J1,,0.5,Android,4.3,Yes,No,No,No,5500
 Huawei,Y5,16,2,Android,5.7,Yes,Yes,No,No,5500
 Nokia,1,16,1,Android,4.5,Yes,Yes,No,No,5500
-Xiaomi,Poco X3 Pro,,6,Android,6.7,Yes,Yes,No,No,5500
-Huawei,Y3,,1,Android,5.0,No,No,No,No,5500
-Samsung,Galaxy A5,,2,Android,5.0,Yes,No,No,No,5500
-Huawei,Y3,,1,Android,5.0,Yes,Yes,No,No,5500
-Samsung,Galaxy J1,,0.5,Android,4.3,No,No,No,No,5500
-Samsung,Galaxy J3,,2,Android,5.0,No,Yes,No,No,5500
-Samsung,Galaxy J1,,0.5,Android,4.3,Yes,No,No,No,5500
-Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,No,5500
-HTC,Desire 820,,2,Android,5.5,Yes,Yes,No,Yes,5500
-HTC,Desire 526G+,,1,Android,4.7,Yes,Yes,No,No,5500
-Huawei,Y3,,1,Android,5.0,Yes,No,No,No,5500
-Samsung,Galaxy J2,,1,Android,4.7,No,No,No,No,5500
+Xiaomi,Poco X3 Pro,16,6,Android,6.7,Yes,Yes,No,No,5500
+Huawei,Y3,16,1,Android,5.0,No,No,No,No,5500
+Samsung,Galaxy A5,16,2,Android,5.0,Yes,No,No,No,5500
+Huawei,Y3,16,1,Android,5.0,Yes,Yes,No,No,5500
+Samsung,Galaxy J1,16,0.5,Android,4.3,No,No,No,No,5500
+Samsung,Galaxy J3,16,2,Android,5.0,No,Yes,No,No,5500
+Samsung,Galaxy J1,16,0.5,Android,4.3,Yes,No,No,No,5500
+Samsung,Galaxy J1,16,0.5,Android,4.3,Yes,Yes,No,No,5500
+HTC,Desire 820,16,2,Android,5.5,Yes,Yes,No,Yes,5500
+HTC,Desire 526G+,16,1,Android,4.7,Yes,Yes,No,No,5500
+Huawei,Y3,16,1,Android,5.0,Yes,No,No,No,5500
+Samsung,Galaxy J2,16,1,Android,4.7,No,No,No,No,5500
 Nokia,8,64,4,Android,5.3,No,No,No,Yes,5500
-Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,No,5500
-Nokia,150,32,0,Other,2.4,Yes,Yes,No,No,5500
+Samsung,Galaxy J1,32,0.5,Android,4.3,Yes,Yes,No,No,5500
+Nokia,150,32,0.004,Other,2.4,Yes,Yes,No,No,5500
 HTC,Desire,32,1,Android,3.7,Yes,Yes,No,No,5500
 Nokia,C2,16,1,Android,5.7,Yes,Yes,No,No,5500
 Huawei,GR3,32,2,Android,5.2,Yes,Yes,No,Yes,5500
-Samsung,Galaxy Core,,1,Android,4.3,Yes,Yes,No,No,5500
-Huawei,Y3,,1,Android,5.0,Yes,Yes,No,No,5500
+Samsung,Galaxy Core,32,1,Android,4.3,Yes,Yes,No,No,5500
+Huawei,Y3,32,1,Android,5.0,Yes,Yes,No,No,5500
 Vivo,V9,64,4,Android,6.3,Yes,Yes,No,Yes,5500
 Nokia,2.2,16,2,Android,5.7,Yes,No,No,No,5500
-Samsung,Galaxy J7,,1.5,Android,5.5,Yes,Yes,No,No,5500
-Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,No,5500
-Samsung,Galaxy J7,,1.5,Android,5.5,Yes,Yes,No,No,5500
-Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,No,5500
+Samsung,Galaxy J7,16,1.5,Android,5.5,Yes,Yes,No,No,5500
+Samsung,Galaxy J1,16,0.5,Android,4.3,Yes,Yes,No,No,5500
+Samsung,Galaxy J7,16,1.5,Android,5.5,Yes,Yes,No,No,5500
+Samsung,Galaxy J1,16,0.5,Android,4.3,Yes,Yes,No,No,5500
 Huawei,Y3,16,1,Android,5.0,Yes,Yes,No,No,5500
-Samsung,Galaxy A02s,,4,Android,6.5,Yes,No,No,No,5500
-Xiaomi,Redmi Note 9,,6,Android,6.5,No,No,No,No,5500
-Samsung,Galaxy On Nxt,,3,Android,5.5,No,Yes,No,No,5500
-Samsung,Galaxy J3,,2,Android,5.0,Yes,Yes,No,No,5500
-Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,No,5500
-Samsung,Galaxy J4+,,2,Android,6.0,Yes,Yes,No,No,5500
-Samsung,Galaxy J3,,2,Android,5.0,Yes,Yes,No,No,5500
+Samsung,Galaxy A02s,16,4,Android,6.5,Yes,No,No,No,5500
+Xiaomi,Redmi Note 9,16,6,Android,6.5,No,No,No,No,5500
+Samsung,Galaxy On Nxt,16,3,Android,5.5,No,Yes,No,No,5500
+Samsung,Galaxy J3,16,2,Android,5.0,Yes,Yes,No,No,5500
+Samsung,Galaxy J1,16,0.5,Android,4.3,Yes,Yes,No,No,5500
+Samsung,Galaxy J4+,16,2,Android,6.0,Yes,Yes,No,No,5500
+Samsung,Galaxy J3,16,2,Android,5.0,Yes,Yes,No,No,5500
 Oppo,A37,16,2,Android,5.0,Yes,Yes,No,No,5500
 Samsung,Galaxy J7,,1.5,Android,5.5,No,No,No,No,5500
 Apple,iPhone 4S,16,0.5,iOS,3.5,Yes,Yes,No,Yes,5500
@@ -171,24 +171,24 @@ Samsung,Galaxy J3,,2,Android,5.0,Yes,Yes,No,No,5500
 Sony,Xperia Z3,8,3,Android,5.2,Yes,Yes,No,Yes,5500
 Apple,iPhone 5,16,1,iOS,4.0,No,No,No,No,5500
 Huawei,Y3,,1,Android,5.0,Yes,Yes,No,No,5500
-Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,No,5500
-Samsung,Galaxy J1,,0.5,Android,4.3,No,No,No,No,5500
+Samsung,Galaxy J1,32,0.5,Android,4.3,Yes,Yes,No,No,5500
+Samsung,Galaxy J1,32,0.5,Android,4.3,No,No,No,No,5500
 Nokia,2.2,32,2,Android,5.7,Yes,Yes,No,Yes,5500
-Samsung,Galaxy J3,,2,Android,5.0,Yes,Yes,No,No,5500
-Huawei,Y3,,1,Android,5.0,Yes,No,No,No,5500
-Samsung,Galaxy J1,,0.5,Android,4.3,Yes,No,No,No,5500
-Samsung,Galaxy J1,,0.5,Android,4.3,Yes,No,No,No,5500
-Nokia,216,16,0,Other,2.4,Yes,Yes,No,No,5500
+Samsung,Galaxy J3,32,2,Android,5.0,Yes,Yes,No,No,5500
+Huawei,Y3,32,1,Android,5.0,Yes,No,No,No,5500
+Samsung,Galaxy J1,32,0.5,Android,4.3,Yes,No,No,No,5500
+Samsung,Galaxy J1,32,0.5,Android,4.3,Yes,No,No,No,5500
+Nokia,216,16,0.016,Other,2.4,Yes,Yes,No,No,5500
 Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,No,5500
 Samsung,Galaxy Core,,1,Android,4.3,Yes,Yes,No,No,5500
 HTC,One M8,32,2,Android,5.0,No,Yes,No,No,5500
-Samsung,Galaxy J2,,1,Android,4.7,Yes,No,No,No,5500
-Samsung,Galaxy J,,3,Android,5.0,No,No,No,No,5500
-Samsung,Galaxy J7,,1.5,Android,5.5,Yes,Yes,No,No,5500
-Samsung,Galaxy J5,,1.5,Android,5.0,Yes,Yes,No,No,5500
-Samsung,Galaxy Grand,,1,Android,5.0,Yes,No,No,No,5500
-Samsung,Galaxy Core,,1,Android,4.3,Yes,Yes,No,No,5500
-Samsung,Galaxy J1,,0.5,Android,4.3,Yes,No,No,No,5500
+Samsung,Galaxy J2,32,1,Android,4.7,Yes,No,No,No,5500
+Samsung,Galaxy J,32,3,Android,5.0,No,No,No,No,5500
+Samsung,Galaxy J7,32,1.5,Android,5.5,Yes,Yes,No,No,5500
+Samsung,Galaxy J5,32,1.5,Android,5.0,Yes,Yes,No,No,5500
+Samsung,Galaxy Grand,32,1,Android,5.0,Yes,No,No,No,5500
+Samsung,Galaxy Core,32,1,Android,4.3,Yes,Yes,No,No,5500
+Samsung,Galaxy J1,32,0.5,Android,4.3,Yes,No,No,No,5500
 Oppo,A57,,3,Android,5.2,No,No,No,No,5500
 Samsung,Galaxy J1,,0.5,Android,4.3,Yes,No,No,No,5500
 HTC,One M8,32,2,Android,5.0,No,Yes,No,No,5500
@@ -198,12 +198,12 @@ Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,No,5500
 Huawei,Y3,,1,Android,5.0,Yes,Yes,No,No,5500
 Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,No,5500
 Samsung,Galaxy Note 1,16,1,Android,5.3,No,No,No,No,5500
-Samsung,Galaxy J2,,1,Android,4.7,No,No,No,No,5500
-Samsung,Galaxy J2,,1,Android,4.7,Yes,No,No,No,5500
-Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,No,5500
-Samsung,Galaxy J7,,1.5,Android,5.5,Yes,Yes,No,Yes,5500
-Samsung,Galaxy J1,,0.5,Android,4.3,No,No,No,No,5500
-HTC,Desire 526G+,,1,Android,4.7,Yes,Yes,No,No,5500
+Samsung,Galaxy J2,16,1,Android,4.7,No,No,No,No,5500
+Samsung,Galaxy J2,16,1,Android,4.7,Yes,No,No,No,5500
+Samsung,Galaxy J1,16,0.5,Android,4.3,Yes,Yes,No,No,5500
+Samsung,Galaxy J7,16,1.5,Android,5.5,Yes,Yes,No,Yes,5500
+Samsung,Galaxy J1,16,0.5,Android,4.3,No,No,No,No,5500
+HTC,Desire 526G+,16,1,Android,4.7,Yes,Yes,No,No,5500
 Huawei,Y3,,1,Android,5.0,No,No,No,No,5500
 Samsung,Galaxy J1,512,0.5,Android,4.3,Yes,Yes,No,No,5500
 Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,No,5500
@@ -217,18 +217,18 @@ Samsung,Galaxy J1,512,0.5,Android,4.3,Yes,Yes,No,No,5500
 Samsung,Galaxy J5,32,1.5,Android,5.0,No,No,No,No,5500
 Samsung,Galaxy Grand,,1,Android,5.0,No,Yes,No,No,5500
 HTC,One M8,32,2,Android,5.0,No,Yes,No,No,5500
-Samsung,Galaxy J1,,0.5,Android,4.3,Yes,No,No,No,5550
-Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,No,5600
-Samsung,Galaxy A32,,4,Android,6.4,Yes,No,No,No,5600
-Samsung,Galaxy J2,,1,Android,4.7,Yes,Yes,No,Yes,5700
-Nokia,C1 Plus,,1,Android,5.5,Yes,Yes,No,No,5750
-Samsung,Galaxy J2,,1,Android,4.7,Yes,Yes,No,No,5800
-Huawei,GR5,,3,Android,5.5,Yes,No,No,Yes,5800
-Samsung,Galaxy S3,,1,Android,4.8,Yes,No,No,No,5800
-Samsung,Galaxy J7,,1.5,Android,5.5,Yes,No,No,No,5800
-Huawei,Honor 9 Lite,,3,Android,5.7,Yes,No,No,No,5800
-Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,No,5800
-Samsung,Galaxy A5,,2,Android,5.0,Yes,Yes,No,No,5800
+Samsung,Galaxy J1,32,0.5,Android,4.3,Yes,No,No,No,5550
+Samsung,Galaxy J1,32,0.5,Android,4.3,Yes,Yes,No,No,5600
+Samsung,Galaxy A32,32,4,Android,6.4,Yes,No,No,No,5600
+Samsung,Galaxy J2,32,1,Android,4.7,Yes,Yes,No,Yes,5700
+Nokia,C1 Plus,32,1,Android,5.5,Yes,Yes,No,No,5750
+Samsung,Galaxy J2,32,1,Android,4.7,Yes,Yes,No,No,5800
+Huawei,GR5,32,3,Android,5.5,Yes,No,No,Yes,5800
+Samsung,Galaxy S3,32,1,Android,4.8,Yes,No,No,No,5800
+Samsung,Galaxy J7,32,1.5,Android,5.5,Yes,No,No,No,5800
+Huawei,Honor 9 Lite,32,3,Android,5.7,Yes,No,No,No,5800
+Samsung,Galaxy J1,32,0.5,Android,4.3,Yes,Yes,No,No,5800
+Samsung,Galaxy A5,32,2,Android,5.0,Yes,Yes,No,No,5800
 HTC,One M8,32,2,Android,5.0,Yes,Yes,No,No,5800
 Samsung,Galaxy Grand,,1,Android,5.0,No,No,No,No,5800
 Samsung,Galaxy Core,,1,Android,4.3,No,No,No,No,5800
@@ -297,7 +297,7 @@ Nokia,2.1,16,1,Android,5.5,Yes,No,No,No,6000
 Apple,iPhone 6S,16,2,iOS,4.7,No,No,No,No,6000
 Oppo,A3s,16,4,Android,6.2,Yes,Yes,No,Yes,6000
 Samsung,Galaxy Core,,1,Android,4.3,Yes,Yes,No,No,6000
-Nokia,216,16,0,Other,2.4,Yes,No,No,No,6000
+Nokia,216,16,0.016,Other,2.4,Yes,No,No,No,6000
 Samsung,Galaxy On7,,1.5,Android,5.5,No,No,No,No,6000
 Samsung,Galaxy J7,,1.5,Android,5.5,Yes,Yes,No,Yes,6000
 Apple,iPhone 6S,16,2,iOS,4.7,No,No,No,No,6000
@@ -320,7 +320,7 @@ Huawei,Y3,,1,Android,5.0,Yes,No,No,No,6000
 Samsung,Galaxy S3,,1,Android,4.8,No,Yes,No,Yes,6000
 Nokia,1.4,64,1,Android,6.5,Yes,Yes,No,Yes,6000
 Huawei,Y3,,1,Android,5.0,Yes,Yes,No,No,6000
-Nokia,Eseries,,0,Symbian OS,2.4,No,Yes,No,No,6000
+Nokia,Eseries,,0.2,Symbian OS,2.4,No,Yes,No,No,6000
 Samsung,Galaxy S6 Edge,,3,Android,5.1,Yes,Yes,No,Yes,6000
 Samsung,Galaxy S4,16,2,Android,5.0,Yes,Yes,No,No,6000
 Nokia,C1,,1,Android,5.5,Yes,No,No,No,6000
@@ -349,7 +349,7 @@ Huawei,Y3,,1,Android,5.0,Yes,Yes,No,Yes,6000
 Samsung,Galaxy Grand,,1,Android,5.0,Yes,No,No,Yes,6000
 Nokia,5.3,64,3,Android,6.6,Yes,Yes,No,Yes,6000
 Samsung,Galaxy J6,,2,Android,5.6,Yes,Yes,No,Yes,6000
-Nokia,150,32,0,Other,2.4,Yes,Yes,No,No,6000
+Nokia,150,32,0.004,Other,2.4,Yes,Yes,No,No,6000
 Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,Yes,6000
 Samsung,Galaxy J1,,0.5,Android,4.3,Yes,No,No,No,6000
 Samsung,Galaxy J2,,1,Android,4.7,Yes,No,No,No,6000
@@ -364,7 +364,7 @@ Sony,Xperia M2,16,1,Android,4.8,No,Yes,No,No,6100
 Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,No,6200
 Samsung,Galaxy J1,,0.5,Android,4.3,Yes,No,No,No,6200
 Huawei,Y3,,1,Android,5.0,No,No,No,No,6200
-Nokia,216,16,0,Other,2.4,Yes,Yes,No,No,6200
+Nokia,216,16,0.016,Other,2.4,Yes,Yes,No,No,6200
 Samsung,Galaxy J1,,0.5,Android,4.3,Yes,No,No,No,6300
 Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,No,6400
 Samsung,Galaxy J2,,1,Android,4.7,No,No,No,No,6400
@@ -426,7 +426,7 @@ Huawei,Y3,,1,Android,5.0,Yes,Yes,No,No,6500
 Samsung,Galaxy A2 Core,,1,Android,5.0,No,No,No,No,6500
 Nokia,C1,,1,Android,5.5,Yes,Yes,No,No,6500
 Samsung,Galaxy J2,,1,Android,4.7,No,No,No,No,6500
-Nokia,Eseries,,0,Symbian OS,2.4,No,Yes,No,No,6500
+Nokia,Eseries,,0.2,Symbian OS,2.4,No,Yes,No,No,6500
 Nokia,C1,,1,Android,5.5,No,No,No,No,6500
 Huawei,Y3,,1,Android,5.0,Yes,Yes,No,No,6500
 Nokia,1.4,64,1,Android,6.5,Yes,Yes,No,No,6500
@@ -435,7 +435,7 @@ Samsung,Galaxy J2,,1,Android,4.7,Yes,No,No,No,6500
 Samsung,Galaxy Grand,,1,Android,5.0,Yes,Yes,No,No,6500
 Samsung,Galaxy J2,,1,Android,4.7,Yes,Yes,No,No,6500
 Samsung,Galaxy J1,,0.5,Android,4.3,Yes,Yes,No,No,6500
-Nokia,Eseries,,0,Symbian OS,2.4,No,No,No,No,6500
+Nokia,Eseries,,0.2,Symbian OS,2.4,No,No,No,No,6500
 Samsung,Galaxy J5,,1.5,Android,5.0,Yes,Yes,No,No,6500
 Samsung,Galaxy J1,,0.5,Android,4.3,No,No,No,No,6500
 Samsung,Galaxy Grand,,1,Android,5.0,Yes,Yes,No,No,6500
@@ -488,7 +488,7 @@ Samsung,Galaxy Note 1,,1,Android,5.3,No,Yes,No,No,6500
 HTC,Desire 628,32,3,Android,5.0,Yes,Yes,No,No,6500
 Samsung,Galaxy J1,,0.5,Android,4.3,No,Yes,No,No,6500
 Samsung,Galaxy Note 2,,2,Android,5.5,No,No,No,No,6500
-Nokia,3310 (2017),128,0,Other,2.4,No,No,No,No,6500
+Nokia,3310 (2017),128,0.25,Other,2.4,No,No,No,No,6500
 Nokia,1,16,1,Android,4.5,Yes,Yes,No,No,6500
 Samsung,Galaxy Core,,1,Android,4.3,Yes,Yes,No,No,6500
 HTC,Desire 826,16,2,Android,5.5,Yes,No,No,No,6500
@@ -575,7 +575,7 @@ Samsung,Galaxy Grand,,1,Android,5.0,Yes,No,No,No,7000
 Huawei,Y3,,1,Android,5.0,No,No,No,No,7000
 Huawei,Y5,16,2,Android,5.7,Yes,No,No,No,7000
 Huawei,Y5,16,2,Android,5.7,Yes,Yes,No,No,7000
-Nokia,3310 (2017),128,0,Other,2.4,Yes,No,No,No,7000
+Nokia,3310 (2017),128,0.25,Other,2.4,Yes,No,No,No,7000
 Huawei,Y5,16,2,Android,5.7,Yes,No,No,No,7000
 Huawei,Y5,16,2,Android,5.7,No,No,No,No,7000
 Samsung,Galaxy J2,,1,Android,4.7,Yes,Yes,No,Yes,7000
@@ -3693,7 +3693,7 @@ Samsung,Galaxy J5,,1.5,Android,5.0,Yes,Yes,No,No,14000
 Samsung,Galaxy J7,,1.5,Android,5.5,Yes,Yes,No,No,14000
 Huawei,P10,64,4,Android,5.1,Yes,No,No,No,14000
 Apple,iPhone 6,128,1,iOS,4.7,No,No,No,No,14000
-Huawei,Ascend Y,,0,Android,3.5,Yes,Yes,No,No,14000
+Huawei,Ascend Y,,0.3,Android,3.5,Yes,Yes,No,No,14000
 Huawei,Y6p,64,3,Android,6.3,Yes,Yes,No,Yes,14000
 Huawei,Y6p,64,3,Android,6.3,Yes,Yes,No,Yes,14000
 Huawei,Y5 Lite,16,1,Android,5.5,Yes,No,No,No,14000
@@ -9778,7 +9778,7 @@ Oppo,A15,32,3,Android,6.5,Yes,Yes,No,Yes,22000
 Realme,C12,,3,Android,6.5,Yes,Yes,No,Yes,22000
 Vivo,Y3,32,4,Android,6.4,Yes,Yes,No,Yes,22000
 Apple,iPhone 6,64,1,iOS,4.7,No,No,No,Yes,22000
-Nokia,1280,128,0,Other,1.4,No,No,No,No,22000
+Nokia,1280,128,0.004,Other,1.4,No,No,No,No,22000
 Apple,iPhone 6S,,2,iOS,4.7,No,No,No,No,22000
 Samsung,Galaxy A30 S,64,3,Android,6.4,Yes,Yes,No,Yes,22000
 Oppo,A5s,,2,Android,6.2,No,No,No,No,22000
@@ -40023,4 +40023,3 @@ Apple,iPhone 7 Plus,512,3,iOS,5.5,No,No,No,Yes,570000
 Huawei,P30 Lite,512,4,Android,6.2,No,No,No,No,600600
 Huawei,Y3,512,1,Android,5.0,Yes,Yes,No,No,600600
 Xiaomi,Poco X3 Pro,512,6,Android,6.7,Yes,Yes,No,Yes,620000
-Nokia,1280,128,0,Other,1.4,No,No,No,No,900900
